@@ -31,6 +31,4 @@ int main()
     euler (x0,y0,h,x);
     return 0;
     
-
-    return 0;
 }
